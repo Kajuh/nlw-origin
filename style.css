@@ -38,6 +38,9 @@ body {
   overflow: overlay;
   background-color: var(--bg-light);
 }
+#segundoBotao {
+  text-decoration: none;
+}
 
 .wrapper {
   width: min(50rem, 100%);
